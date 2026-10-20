@@ -1,6 +1,6 @@
 """
 DCOMP320 Data Structures and Algorithm - Assignment 1: Stacks Implementation
-Student : Mohamed Alie Kamara (BSEM 2102)
+Student : Fatima Osman Jalloh (BSEM 2103)
 
 Reads mathematical expressions from input.txt, evaluates each one with a
 stack-based algorithm, and writes the answers to output.txt. Separator lines
