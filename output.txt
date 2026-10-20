@@ -1,0 +1,27 @@
+13
+-----
+16
+-----
+-10
+-----
+10
+-----
+24
+-----
+3.5
+-----
+5
+-----
+-8
+-----
+24.5
+-----
+5
+-----
+Error: division by zero
+-----
+Error: unbalanced parentheses
+-----
+Error: expression ends with an operator
+-----
+Error: unexpected character '$'
